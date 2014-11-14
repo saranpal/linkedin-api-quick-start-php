@@ -8,6 +8,6 @@ This is quick start with linkedin API using the "OAuth User Token", you can call
 You can see the OAuth User token.png for more help..
 
 
-You feedback required, if you have any issue / question, write me on saran.pal1911@gmail.com.
+You feedback required, if you have any issue / question, write me at saran.pal1911@gmail.com.
 
 
